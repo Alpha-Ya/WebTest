@@ -1,4 +1,4 @@
-@charset "utf-8";
+﻿@charset "utf-8";
 /* CSS Document */
 body,*{margin:0 auto;padding:0 auto;border:0;font-size:100%;font:inherit;vertical-align:baseline;}
 figure,footer, header, menu, nav, section {display: block;}
@@ -49,7 +49,7 @@ ol,ul{list-style:none;margin:0px;padding:0px;}
 
 .content2{
     background-color: black;
-    height: 2150px;
+    height: 1800px;
    padding-top: 50px;
     margin-top: 50px;
 }
@@ -64,7 +64,7 @@ h1{
 h2{
     text-align:center;
     font-size: 25px;
-    padding-bottom: 40px;
+    padding-bottom: 30px;
     font-family:"黑体";
     color: white;
     margin-top: 80px;
@@ -108,14 +108,14 @@ h2{
 
 .content3{
 
-    height: 750px;
+    height: 1000px;
     padding-top: 50px;
     background-color: #fff996;
 }
 
 .content4{
 
-    height: 1600px;
+    height: 1500px;
     padding-top: 50px;
 
 }
@@ -147,7 +147,7 @@ h2{
 }
 
 .content5{
-    height: 1000px;
+    height: 950px;
     width: 100%;
     background-color: rgba(248,183,218,0.5)
     margin:0 auto;
